@@ -1,0 +1,2 @@
+# Mindbox
+Для тестового Mindbox
